@@ -7,11 +7,13 @@ A library for simple implementation of smart ranking.
 The user will see a dialog every x time.
 If the user gives a high score(=5), he will be transferred to the Google store. If he gives a low score(<4), feedback dialog will appear.
 
-![rateMyApp_feedbackDialog](https://github.com/RonLulwi/RateMyApp/assets/95926852/04b22fcb-792b-4043-91c6-45f5ce6159fb)
+
+![rateMyApp_starsDialog](https://github.com/RonLulwi/RateMyApp/assets/95926852/ba18ffb9-c5ad-4c83-b27a-8f551bddc55c)
 
 ![rateMyApp_marketDialog](https://github.com/RonLulwi/RateMyApp/assets/95926852/77d0ceaf-d4d4-4fa6-8eea-fc555fc207fd)
 
-![rateMyApp_starsDialog](https://github.com/RonLulwi/RateMyApp/assets/95926852/ba18ffb9-c5ad-4c83-b27a-8f551bddc55c)
+![rateMyApp_feedbackDialog](https://github.com/RonLulwi/RateMyApp/assets/95926852/04b22fcb-792b-4043-91c6-45f5ce6159fb)
+
 
 
 ## Setup
